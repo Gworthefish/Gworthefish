@@ -2,7 +2,7 @@
 ### 💻 Ingeniero en Sistemas Computacionales | Desarrollador y Soporte Técnico
 
 Soy un apasionado de la tecnología, el desarrollo de software y la mejora continua.  
-Actualmente trabajo como desarrollador indendiente mientras finalizo mi licenciatura en seguridad de la información.  
+Actualmente trabajo como desarrollador indendiente en el ambiente de .NET core mientras finalizo mi licenciatura en seguridad de la información.  
 Me encanta crear soluciones prácticas que integren buenas prácticas de programación y seguridad informática.
 
 ---
