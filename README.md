@@ -2,7 +2,7 @@
 ### 💻 Ingeniero en Sistemas Computacionales | Desarrollador y Soporte Técnico
 
 Soy un apasionado de la tecnología, el desarrollo de software y la mejora continua.  
-Actualmente trabajo como soporte técnico universitario mientras finalizo mi carrera en Ingeniería en Sistemas Computacionales.  
+Actualmente trabajo como desarrollador indendiente mientras finalizo mi licenciatura en seguridad de la información.  
 Me encanta crear soluciones prácticas que integren buenas prácticas de programación y seguridad informática.
 
 ---
@@ -43,9 +43,9 @@ Me encanta crear soluciones prácticas que integren buenas prácticas de program
 
 ### 🌎 Conectemos
 
-📫 **Correo:** fabianherrera@email.com  
+📫 **Correo:** fabianherrera.dev@email.com  
 💼 [LinkedIn](https://www.linkedin.com/in/fabianherrera)  
-📘 [Portafolio (Próximamente)](https://fabianherrera.github.io)
+
 
 ---
 
