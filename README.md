@@ -43,7 +43,7 @@ Me encanta crear soluciones prácticas que integren buenas prácticas de program
 
 ### 🌎 Conectemos
 
-📫 **Correo:** fabianherrera.dev@email.com  
+📫 **Correo:** fabianherrera.dev@gamil.com  
 💼 [LinkedIn](https://www.linkedin.com/in/fabianherrera)  
 
 
